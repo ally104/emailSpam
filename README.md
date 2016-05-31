@@ -17,3 +17,5 @@ For JavaScript needed make sure that it is enabled on your browser.
 * While installing if there is an error saying pip packages not found please install that package accordingly.
 
 #### made with love for code <3 
+
+[![support](https://baikal.io/badges/ally104/email-spam)](https://baikal.io/ally104/email-spam)
